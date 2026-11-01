@@ -1,0 +1,50 @@
+{
+  "word": "service",
+  "window": 5,
+  "min_count": 3,
+  "vocabulary": 1468,
+  "tokens": 33698,
+  "coverage": 0.8678,
+  "neighbors": [
+    {
+      "word": "attentive",
+      "similarity": 0.91
+    },
+    {
+      "word": "friendly",
+      "similarity": 0.9023
+    },
+    {
+      "word": "customer",
+      "similarity": 0.8975
+    },
+    {
+      "word": "food",
+      "similarity": 0.8798
+    },
+    {
+      "word": "staff",
+      "similarity": 0.8719
+    },
+    {
+      "word": "server",
+      "similarity": 0.8665
+    },
+    {
+      "word": "slow",
+      "similarity": 0.8644
+    },
+    {
+      "word": "selection",
+      "similarity": 0.8608
+    },
+    {
+      "word": "terrible",
+      "similarity": 0.859
+    },
+    {
+      "word": "extremely",
+      "similarity": 0.8492
+    }
+  ]
+}

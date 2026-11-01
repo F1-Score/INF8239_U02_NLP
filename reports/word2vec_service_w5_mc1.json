@@ -1,0 +1,50 @@
+{
+  "word": "service",
+  "window": 5,
+  "min_count": 1,
+  "vocabulary": 5155,
+  "tokens": 33698,
+  "coverage": 1.0,
+  "neighbors": [
+    {
+      "word": "impeccable",
+      "similarity": 0.9505
+    },
+    {
+      "word": "negligent",
+      "similarity": 0.9372
+    },
+    {
+      "word": "food",
+      "similarity": 0.9322
+    },
+    {
+      "word": "server",
+      "similarity": 0.929
+    },
+    {
+      "word": "customer",
+      "similarity": 0.929
+    },
+    {
+      "word": "attentive",
+      "similarity": 0.9276
+    },
+    {
+      "word": "outstanding",
+      "similarity": 0.9253
+    },
+    {
+      "word": "downside",
+      "similarity": 0.9214
+    },
+    {
+      "word": "boot",
+      "similarity": 0.9214
+    },
+    {
+      "word": "personable",
+      "similarity": 0.9184
+    }
+  ]
+}

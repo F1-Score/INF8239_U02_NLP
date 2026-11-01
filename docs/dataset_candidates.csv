@@ -1,0 +1,3 @@
+name,url,license,language,rows,target,decision,reason
+Sentiment Labelled Sentences,https://archive.ics.uci.edu/dataset/331/sentiment+labelled+sentences,CC BY 4.0,English,3000,label (0 negative / 1 positive),accepted,"Texto y etiqueta claros, licencia abierta, descarga directa por ZIP, clases balanceadas y sin datos personales"
+YouTube Spam Collection,https://archive.ics.uci.edu/dataset/380/,CC BY 4.0,English,1956,CLASS (0 legítimo / 1 spam),rejected,"Incluye la columna AUTHOR con nombres de quienes comentaron (riesgo de datos personales), está repartido en cinco archivos por video y es más pequeño"

@@ -1,0 +1,21 @@
+row,text,source,real,predicted,category,note
+1490,"Totally different, with loads of understatement and black comedy, this is a film few get to see, but those who do will remember it.",imdb,positive,negative,Contraste de opiniones,"'few get to see, but those who do will remember it' combina tonos."
+1702,"But she is still a bad actress, repeating her robotic face moves in each of her pictures.",imdb,negative,positive,Contraste de opiniones,"Empieza con 'But ... still', que conecta con una opinión previa no incluida."
+1899,"Director Neil LaBute uses brutal violence to seperate dreams from reality, and along with the touching drama, and hilarious comedy, you can never tell what is going to happen next.",imdb,positive,negative,Contraste de opiniones,'brutal violence' junto a 'touching' y 'hilarious' en la misma oración.
+2594,It was a pale color instead of nice and char and has NO flavor.,yelp,negative,positive,Contraste de opiniones,Mezcla 'nice' con 'NO flavor'; gana la palabra positiva.
+1896,"I felt asleep the first time I watched it, so I can recommend it for insomniacs.",imdb,negative,positive,Ironía,Recomendar la película 'para insomnes' es una crítica irónica.
+2592,OMG I felt like I had never eaten Thai food until this dish.,yelp,positive,negative,Lenguaje informal,'OMG' y una comparación exagerada que el vocabulario TF-IDF no capta.
+799,I tried talking real loud but shouting on the telephone gets old and I was still told it wasn't great.,amazon,negative,positive,Negación,'wasn't great' es negativo; el modelo pesa 'great'.
+1436,"The soundtrack wasn't terrible, either.",imdb,positive,negative,Negación,'wasn't terrible' es positivo; el modelo pesa 'terrible' sin la negación.
+1539,i wouldnt see this movie again for free.,imdb,negative,positive,Negación,'wouldnt see ... for free' niega una acción; además falta el apóstrofo.
+2676,I can't wait to go back.,yelp,positive,negative,Negación,'can't wait' es entusiasmo; 'can't' aparece sobre todo en reseñas negativas.
+302,Someone shouldve invented this sooner.,amazon,positive,negative,Sentimiento implícito,'shouldve invented this sooner' es un elogio indirecto.
+833,"My father has the V265, and the battery is dying.",amazon,negative,positive,Sentimiento implícito,'the battery is dying' es una queja expresada como hecho.
+908,"I can hear while I'm driving in the car, and usually don't even have to put it on it's loudest setting.",amazon,positive,negative,Sentimiento implícito,"Elogia el volumen describiendo un uso concreto, sin adjetivos positivos."
+995,The screen does get smudged easily because it touches your ear and face.,amazon,negative,positive,Sentimiento implícito,Describe un defecto (pantalla que se ensucia) sin palabras de opinión.
+1693,I advise you to look out for it.,imdb,positive,negative,Sentimiento implícito,"Recomendar buscar la película es positivo, pero no usa adjetivos de opinión."
+2597,It'll be a regular stop on my trips to Phoenix!,yelp,positive,negative,Sentimiento implícito,La intención de volver expresa satisfacción sin palabras positivas.
+973,Lousy product.,amazon,negative,positive,Texto insuficiente,Dos palabras; 'lousy' aparece solo 3 veces en todo el corpus.
+1408,It really created a unique feeling though.,imdb,positive,negative,Vocabulario poco frecuente,'unique' aparece solo 2 veces en el corpus; 'though' sugiere contraste.
+2295,"You get incredibly fresh fish, prepared with care.",yelp,positive,negative,Vocabulario poco frecuente,"'fresh fish, prepared with care': palabras positivas poco vistas en entrenamiento."
+2358,Best fish I've ever had in my life!,yelp,positive,negative,Vocabulario poco frecuente,'fish' aparece más en reseñas negativas (4 de 6) y 'best' no alcanza a compensar.
